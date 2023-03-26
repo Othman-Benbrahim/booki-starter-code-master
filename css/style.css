@@ -96,10 +96,12 @@ header {
   justify-content: space-between;
 }
 
-.liens {display: flex;}
+.liens {display: flex;
+  margin-top: 14px;}
 
 .liens a {
   padding: 0 35px;
+  
 }
 
 .liens a:hover {
@@ -123,6 +125,7 @@ header {
   top: 30px;
   border-radius: 0px;
   margin-bottom: 60px;
+  margin-top: 30px;
 }
 
 footer {
