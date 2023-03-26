@@ -617,9 +617,11 @@ width: 100%;
   }
 
   .bordureSearch {
-    width: 329px;
+    width: 100%;
     border-radius: 15px;
     border: 1px solid #f2f2f2;
+    margin-right: 20px;
+    margin-left: 20px;
   }
 
   /*** Filtres ***/
