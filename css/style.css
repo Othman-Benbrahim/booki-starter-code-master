@@ -75,7 +75,11 @@ body {
 
 .card-title {
   font-size: 16px;
+
 }
+
+
+
 
 .euro {
   font-weight: 700;
@@ -431,6 +435,8 @@ aside { display: flex;
   line-height: 26px;
   letter-spacing: 0em;
   text-align: left;
+  margin-left: 2%;
+  margin-top: 5%;
 }
 
 .card-section-2 {
@@ -446,7 +452,8 @@ aside { display: flex;
   line-height: 19px;
   letter-spacing: 0em;
   padding-left: 19px;
-  padding-top: 20px;
+  padding-top: 8px;
+  padding-bottom: 12px;
 }
 
 .img-section-2 img {
@@ -573,7 +580,7 @@ justify-content: center;
 width: 100%;
 }
 
-.lien-1{width: 50%;}
+.lien-1  {width: 50%;}
 
 
 .lien-2 { width: 50%;}
